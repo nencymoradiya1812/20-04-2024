@@ -35,7 +35,7 @@
     font-size: 8px;
   }
   .section-subtitle {
-    max-width: 80px;
+    max-width: 80%;
   }
 
   .banner_section{
@@ -51,4 +51,5 @@
   html {
     font-size: 7px;
   }
+ 
 }
